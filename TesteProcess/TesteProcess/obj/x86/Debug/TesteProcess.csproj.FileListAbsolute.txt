@@ -1,0 +1,9 @@
+C:\Desenv\TesteProcess\TesteProcess\bin\Debug\TesteProcess.exe
+C:\Desenv\TesteProcess\TesteProcess\bin\Debug\TesteProcess.pdb
+C:\Desenv\TesteProcess\TesteProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desenv\TesteProcess\TesteProcess\obj\x86\Debug\TesteProcess.Frm_TesteProcess.resources
+C:\Desenv\TesteProcess\TesteProcess\obj\x86\Debug\TesteProcess.Properties.Resources.resources
+C:\Desenv\TesteProcess\TesteProcess\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Desenv\TesteProcess\TesteProcess\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Desenv\TesteProcess\TesteProcess\obj\x86\Debug\TesteProcess.exe
+C:\Desenv\TesteProcess\TesteProcess\obj\x86\Debug\TesteProcess.pdb
